@@ -42,7 +42,7 @@ Installation
 [Method 2] Manual Installation
 
 # Clone repository
-git clone https://github.com/sqzer-x/doomsday.git
+git clone https://github.com/debuman/doomsday.git
 cd doomsday
 
 # Run installation script
@@ -96,7 +96,7 @@ Development
 --------------------------------------------------------------------------------
 
 # Install in development mode
-git clone https://github.com/sqzer-x/doomsday.git
+git clone https://github.com/debuman/doomsday.git
 cd doomsday
 ./install.sh
 
@@ -131,11 +131,11 @@ Contributing
 --------------------------------------------------------------------------------
 
 Bug reports and feature requests welcome!
-https://github.com/sqzer-x/doomsday/issues
+https://github.com/debuman/doomsday/issues
 
 --------------------------------------------------------------------------------
 
-Made with ❤️ by sqzer-x
-https://github.com/sqzer-x
+Made with ❤️ by debuman
+https://github.com/debuman
 
 ================================================================================
